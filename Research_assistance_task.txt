@@ -1,0 +1,10 @@
+Read data from the local database to implement the Q&A.
+Design of synthesis programs and orthogonal experiments simplify the synthesis process.
+Design of catalytic CO2 cycloaddition activity tests.
+Decision Making Next Characterization.
+Generate theoretical calculation scripts.
+Isotherm fitting.
+Calculate the heat of adsorption by isotherms.
+Calculate of IAST by isotherms.
+BET analysis by N2 77K isotherm.
+Provide analysis and give recommendations based on the results.
